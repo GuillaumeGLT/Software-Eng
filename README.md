@@ -1,14 +1,2 @@
-# Software-Eng
-
-Project for software engineering : FunBoardGames
-
-Jira link : https://funboardgames.atlassian.net/jira/software/projects/FUN/boards/1
-
-ERIC Thessa.
-
-Guillaume GALLET
-
-Theophile NELSON
-
-Fredy MANFOUO
-
+# BDE_Website
+projet académique consistant à réaliser un site web pour le BDE de l'école
